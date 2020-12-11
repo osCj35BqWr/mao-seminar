@@ -7,7 +7,7 @@ https://elmas3.github.io/mao-seminar/
 AAA
 BBB
 CCC
-いい感じに
+DDD
 
 # ディレクトリ構成
 ```
