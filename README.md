@@ -5,9 +5,10 @@ https://elmas3.github.io/mao-seminar/
 
 #メンバー
 Amaterは正しくないA
+AAA-master-2
 BBB
 CCC
-Dmasterは正しいD
+DDD-master-2
 
 # ディレクトリ構成
 ```
