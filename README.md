@@ -4,11 +4,10 @@ GitHub Pages機能を使って公開されたページは[こちら](https://elm
 https://elmas3.github.io/mao-seminar/
 
 #メンバー
-Amaterは正しくないA
-AAA-master-2
+AAA
 BBB
 CCC
-DDD-master-2
+DDD
 
 # ディレクトリ構成
 ```
